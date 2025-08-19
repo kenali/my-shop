@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-max-1.jpg",
+      "name": "iPhone 15 Pro Max",
+      "count": 5,
+      "size": {
+        "width": 77.8,
+        "height": 159.9
+      },
+      "weight": "221g",
+      "comments": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-1.jpg",
+      "name": "iPhone 15",
+      "count": 12,
+      "size": {
+        "width": 71.6,
+        "height": 147.6
+      },
+      "weight": "171g",
+      "comments": [
+        3
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "productId": 1,
+      "description": "Лучший iPhone, который у меня был!",
+      "date": "14:00 22.08.2024"
+    },
+    {
+      "id": "2",
+      "productId": 1,
+      "description": "Камера просто топ, но дороговат.",
+      "date": "09:15 24.08.2024"
+    },
+    {
+      "id": "3",
+      "productId": 2,
+      "description": "Очень красивый цвет, батарея держит хорошо.",
+      "date": "12:30 01.09.2024"
+    }
+  ]
+}
